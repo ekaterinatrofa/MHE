@@ -2,6 +2,7 @@
 #define HILL_CLIMBING_HPP_INCLUDED
 
 #include <chrono>
+#include <functional>
 
 
 auto hill_climb = [](my_set user_set,
@@ -49,8 +50,11 @@ auto hill_climb = [](my_set user_set,
 
     auto finish = chrono::steady_clock::now();
     chrono::duration<double> duration = finish - start;
+   // on_statistics(N, duration.count());
     std::cout << "# count HC: " << attempt << "; dt: " << duration.count() << std::endl;
     solFile << "# count HC: " << attempt << "; dt: " << duration.count() << std::endl;
+
+    std::cout << best_p << " -> "  << "result: "<< best_goal_val << std::endl ;
 
 };
 

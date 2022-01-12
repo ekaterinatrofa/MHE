@@ -116,6 +116,7 @@ Problem generate_random_problem(int n)
 
 Problem read_problem(std::string filename)
 {
+    std::cout << filename << std::endl;
     std::ifstream input_file(filename);
     Problem out;
     input_file >> out.sum;

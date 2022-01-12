@@ -94,6 +94,9 @@ auto tabu =[](my_set user_set, auto goal, double sum, int N,
     std::cout << "# count TS: " << attempt << "; dt: " << duration.count() << std::endl;
     solFile << "# count TS: " << attempt << "; dt: " << duration.count() << std::endl;
 
+    std::cout << best_p << " -> "  << "result: "<< best_goal_val << std::endl ;
+
+
 };
 
 #endif // TABU_HPP_INCLUDED
