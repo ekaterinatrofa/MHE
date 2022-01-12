@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1634485006 source:c:\users\pc\documents\3 rok\mhe\ssp\subset_sum_problem\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+
+1635187701 source:c:\users\pc\documents\3 rok\mhe\subset_sum_problem\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<random>
+	<iterator>
+	<algorithm>
+	<math.h>
+
+1641768529 source:c:\users\pc\documents\3 rok\mhe1\subset_sum_problem\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<random>
+	<iterator>
+	<algorithm>
+	<math.h>
+	<chrono>
+	<experimental/random>
+	<map>
+	<stdlib.h>
+	"subset_sum_problem.hpp"
+	"hill_climbing.hpp"
+	"tabu.hpp"
+	"ga.hpp"
+	<boost/any.hpp>
+	<any>
+	<typeinfo>
+
+1636914798 c:\users\pc\documents\3 rok\mhe1\subset_sum_problem\subset_sum_problem.hpp
+	<iostream>
+	<iterator>
+
+1641596296 source:c:\users\pc\documents\3 rok\mhe1\subset_sum_problem\subset_sum_problem.cpp
+	<vector>
+	<iostream>
+	<numeric>
+	<random>
+	<algorithm>
+	<fstream>
+	<sstream>
+	<experimental/random>
+	<iterator>
+	"subset_sum_problem.hpp"
+
+1638115953 c:\users\pc\documents\3 rok\mhe1\subset_sum_problem\hill_climbing.hpp
+	<chrono>
+	<functional>
+
+1636914471 c:\users\pc\documents\3 rok\mhe1\subset_sum_problem\brute_force.hpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<random>
+	<iterator>
+	<algorithm>
+	<math.h>
+	<chrono>
+
+1638115953 c:\users\pc\documents\3 rok\mhe1\subset_sum_problem\tabu.hpp
+	<algorithm>
+	<chrono>
+	<functional>
+	<vector>
+	<numeric>
+
+1641840947 c:\users\pc\documents\3 rok\mhe1\subset_sum_problem\ga.hpp
+	<iostream>
+	<vector>
+	<numeric>
+	<algorithm>
+	<random>
+	<functional>
+	<chrono>
+	<omp.h>
+
