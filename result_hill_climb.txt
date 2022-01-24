@@ -1,6 +1,0 @@
-hill_climb    5    1.0    0.0012088
-hill_climb    10    2.0    0.00152368
-hill_climb    20    1.0    0.0016678600000000002
-hill_climb    5    1.0    0.00114418
-hill_climb    10    5.0    0.00139508
-hill_climb    20    2.0    0.00182204

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1643031814 source:c:\users\pc\documents\3 rok\mhe1\sa\sa.cpp
+	"sa.h"
+	<vector>
+	<functional>
+	<iostream>
+	<string>
+	<random>
+	<iomanip>
+	<fstream>
+
+1642977706 c:\users\pc\documents\3 rok\mhe1\sa\sa.h
+	<vector>
+	<functional>
+	<iostream>
+
+1643010763 source:c:\users\pc\documents\3 rok\mhe1\sa\main.cpp
+	<iostream>
+	<math.h>
+	<cmath>
+	<random>
+	<vector>
+	<functional>
+	<iomanip>
+	<map>
+	<fstream>
+	<sstream>
+	"sa.h"
+
